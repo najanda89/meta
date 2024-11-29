@@ -1,6 +1,8 @@
+
+
 {
   "name": "fatcat",
-  "symbol": "fct",
-  "uri": "https://raw.githubusercontent.com/najanda89/meta/main/cat.png",
-  "uriHash": "base64hashvalue"
+  "symbol": "FCT",
+  "description": "fatcat",
+  "image": "https://raw.githubusercontent.com/najanda89/meta/main/cat.png"
 }
